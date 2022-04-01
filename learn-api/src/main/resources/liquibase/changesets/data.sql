@@ -1,0 +1,1 @@
+--insert into employee(employee_id,country_code,phone_number,email_id,first_name,last_name,designation) values(nextval('seq_employee'),'+91','9789372811','sara@gmail.com','saravana Perumal','D',0),(nextval('seq_employee'),'+91','9442408683','dharani@gmail.com','Dharani','S',1),(nextval('seq_employee'),'+91','9486392811','siva@gmail.com','Siva','D',2);
